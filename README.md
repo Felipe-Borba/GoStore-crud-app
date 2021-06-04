@@ -21,7 +21,7 @@
 
 
 ## Screenshot
-![Main page](./img/MainPage.png)
+![Main page](./img/MainPage.PNG)
 
 
 ## Setup
