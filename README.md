@@ -49,12 +49,12 @@ Gobarber-backend.git
 ```bash
 $ cd .\GoStore-crud-app\src
 ```
-
+<!--
 * Install dependencies
 ```bash
-$ go install
+$ go ...
 ```
-<!-- verify that -->
+ verify that -->
 
 * Run local server
 ```bash
