@@ -54,6 +54,7 @@ $ cd .\GoStore-crud-app\src
 ```bash
 $ go ...
 ```
+I could use glide to manage dependencies
  verify that -->
 
 * Run local server
